@@ -1,0 +1,26 @@
+/***************** COLORS ***************** */
+
+.my_bg-primary{
+    background-color: #2C3E50;
+}
+
+.my_bg-secondary{
+    background-color: #1ABC9C;
+}
+
+/***************** COLORS ***************** */
+
+
+/***************** SIZING ***************** */
+.my_padded-in{
+    padding: 0 10px;
+}
+/***************** SIZING ***************** */
+
+
+
+/*-------------------DEBUG----------------- */
+.box{
+    background-color: orange;
+    height: 40px;
+}
