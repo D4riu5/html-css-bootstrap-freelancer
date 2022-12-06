@@ -2,6 +2,10 @@
 header{
     height: 60px;
 }
+
+.my_row{
+    width: 100%;
+}
 /**************** NAV *****************/
 
 /**************** HEADER *****************/
@@ -22,10 +26,12 @@ header{
     height: 100%;
 }   
 
-
-
 /**************** PORFOLIO *****************/
-
+#portfolio img{
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+}
 
 /**************** ABOUT *****************/
 

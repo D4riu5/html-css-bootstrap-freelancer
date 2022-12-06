@@ -33,5 +33,10 @@
 
 .box-bigger{
     height: 250px;
+    background-color: red;
 }
 
+.box-biggest{
+    height: auto;
+    background-color: green;
+}
