@@ -18,10 +18,15 @@
 }
 /***************** COLORS ***************** */
 
+/***************** TEXT ***************** */
+h2{
+    font-weight: bold;
+}
+/***************** TEXT ***************** */
 
 
 /***************** UTILITIES ***************** */
-/******* CUSTOM DASH *******/
+/* CUSTOM DASH LINE*/
 .my_star::before, .my_star::after {
     content: '';
     display: inline-block;

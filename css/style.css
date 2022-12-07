@@ -15,14 +15,15 @@ a:hover:not(#logo-txt){
 
 /**************** JUMBO *****************/
 #jumbo img {
-    max-width: 200px;
+    max-width: 230px;
   }
 
-
-/**************** PORFOLIO *****************/
-#portfolio .my_star::before, #portfolio .my_star::after {
+/**************** MAIN *****************/
+#portfolio .my_star::before, #portfolio .my_star::after,
+#contact .my_star::before, #contact .my_star::after {
     background-color: black;
   }
+/**************** PORFOLIO *****************/
 
 #portfolio img {
     max-width: 100%;
@@ -30,6 +31,14 @@ a:hover:not(#logo-txt){
 
 /**************** CONTACT *****************/
 
+#submit-button{
+    background-color: #1ABC9C;
+}
+
+#submit-button:hover{
+    background-color: #168e76;
+}
+/**************** MAIN *****************/
 
 
 
