@@ -14,23 +14,37 @@ a:hover:not(#logo-txt){
 }
 
 
+
 /**************** MAIN *****************/
 #portfolio .my_star::before, #portfolio .my_star::after,
 #contact .my_star::before, #contact .my_star::after {
     background-color: black;
-  }
+}
 
-  /**************** JUMBO *****************/
+/**************** JUMBO *****************/
 #jumbo img {
     max-width: 230px;
-  }
+}
 
 /**************** PORFOLIO *****************/
+#portfolio{
+    scroll-margin-top: 20px;
+}
+
 #portfolio img {
     max-width: 100%;
-  }
+}
+
+/**************** ABOUT *****************/  
+#about{
+    scroll-margin-top: 20px;
+}
 
 /**************** CONTACT *****************/
+#contact{
+    scroll-margin-top: 20px;
+}
+
 #submit-button{
     background-color: #1ABC9C;
 }
