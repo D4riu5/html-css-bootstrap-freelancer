@@ -22,7 +22,13 @@ a{
 
 
 /**************** PORFOLIO *****************/
+#portfolio .my_star::before, #portfolio .my_star::after {
+    background-color: black;
+  }
 
+#portfolio img {
+    max-width: 100%;
+  }
 
 /**************** ABOUT *****************/
 
