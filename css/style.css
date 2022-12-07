@@ -13,24 +13,24 @@ a:hover:not(#logo-txt){
     color: white;
 }
 
-/**************** JUMBO *****************/
-#jumbo img {
-    max-width: 230px;
-  }
 
 /**************** MAIN *****************/
 #portfolio .my_star::before, #portfolio .my_star::after,
 #contact .my_star::before, #contact .my_star::after {
     background-color: black;
   }
-/**************** PORFOLIO *****************/
 
+  /**************** JUMBO *****************/
+#jumbo img {
+    max-width: 230px;
+  }
+
+/**************** PORFOLIO *****************/
 #portfolio img {
     max-width: 100%;
   }
 
 /**************** CONTACT *****************/
-
 #submit-button{
     background-color: #1ABC9C;
 }
@@ -38,10 +38,15 @@ a:hover:not(#logo-txt){
 #submit-button:hover{
     background-color: #168e76;
 }
-/**************** MAIN *****************/
 
 
 
-/**************** FOOTER_TOP *****************/
+/**************** FOOTER*****************/
+footer a{
+    color: #1ABC9C;
+}
 
 /**************** FOOTER_BOT *****************/
+#footer-bot p{
+    font-size: 12px;
+}
