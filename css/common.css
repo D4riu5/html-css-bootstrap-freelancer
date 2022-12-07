@@ -4,8 +4,16 @@
     background-color: #2C3E50;
 }
 
+.my_bg-primary-ligther{
+    background-color: #3A546D;
+}
+
 .my_bg-secondary{
     background-color: #1ABC9C;
+}
+
+.my_secondary-color{
+    color: #1ABC9C;
 }
 
 /***************** COLORS ***************** */
