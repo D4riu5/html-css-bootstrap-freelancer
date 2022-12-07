@@ -4,7 +4,7 @@
     background-color: #2C3E50;
 }
 
-.my_bg-primary-ligther{
+.my_bg-primary-lighter{
     background-color: #3A546D;
 }
 
@@ -15,36 +15,14 @@
 .my_secondary-color{
     color: #1ABC9C;
 }
-
 /***************** COLORS ***************** */
 
 
 /***************** SIZING ***************** */
-.my_container{
-    max-width: 500px;
-    margin: 0 auto;
-}
 
-.my_padded-in{
-    padding: 0 10px;
-}
 
 /***************** SIZING ***************** */
 
 
 
 /*-------------------DEBUG----------------- */
-.box{
-    background-color: orange;
-    height: 40px;
-}
-
-.box-bigger{
-    height: 250px;
-    background-color: red;
-}
-
-.box-biggest{
-    height: auto;
-    background-color: green;
-}
